@@ -1,0 +1,33 @@
+body {
+  background-color: darkslategray;
+}
+h1 {
+  color: white;
+  padding: 60 px;
+  text-align: center;
+  font-weight: bold;
+}
+p {
+  color: white;
+  align-content: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+button {
+  border: none;
+  margin: 60px;
+  border-radius: 12px;
+  cursor: pointer;
+  width: 160px;
+  min-height: 64px;
+  color: white;
+  font-size: xx-large;
+}
+#dodaj {
+  background-color: greenyellow;
+}
+#usun {
+  background-color: red;
+}
